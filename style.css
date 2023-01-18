@@ -1,0 +1,48 @@
+body{
+   background-image: url(images/1101595.jpg);
+}
+
+
+.titulo{
+    color: rgb(255, 255, 255);
+    padding-left: 35%;
+}
+
+.nome {
+    color:white ;
+    padding-left: 12%;
+    
+}
+
+
+.personagens div {
+    margin: 1%;
+    padding: 1%;
+    padding-top: 1%; 
+    padding-bottom: 2%;
+    background-color: #58dbfc69; 
+
+}
+.personagens {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.personagens2 div {
+    margin: 1%;
+    padding: 1%;
+    padding-left: 1%; 
+    padding-bottom: 2%;
+    background-color: #58dbfc69; 
+
+    
+}
+
+.personagens2 {
+    display: flex;
+    justify-content: center;
+    
+}
